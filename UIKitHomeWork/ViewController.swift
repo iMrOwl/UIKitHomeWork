@@ -9,12 +9,10 @@ import UIKit
 
 class ViewController: UIViewController {
 
-    let button = UIButton()
+    let buttonStart = UIButton()
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        view.backgroundColor = .gray
-        view.backgroundColor = .gray
         view.backgroundColor = .gray
     }
 
